@@ -9,10 +9,13 @@
  Dot vs Bracket Notation – Learned how to access object properties in both ways with examples.  
  Loops (For, While) – Practiced repeating code using different loops through challenges.  
  DOM and DOM Manipulation – Selected and updated elements on the page using JavaScript.  
- Handling Click Events – Handled user actions like button clicks in small projects.  
-# Task In Progress
- Number Guessing Game – Making a game using user input, DOM, and conditions done the css and html file and just something remaing  in the project
-
+ Handling Click Events – Handled user actions like button clicks in small projects. 
+ Guess number game Completed
+ The CSS manipulatation
+The modal Window Project with HTML,CSS,JS completed
+Pig Game Completed
+Working with Classes
+Handling click Events
 
 
 
