@@ -16,10 +16,18 @@ The modal Window Project with HTML,CSS,JS completed
 Pig Game Completed
 Working with Classes
 Handling click Events
-..............................
+---------------------------
 Dice Game Completed
 Destructing Arrays And Deststructing Objects
 Spread Operators(....)
 Rest Pattern And Parameters
 Short Circuiting And Operators (&&)
-
+-----------------
+Nullish Coalescing operators()
+Looping Arrays
+Enhanced Objects Literals And Entries
+Optional Chaining(.) And Looping Objects Keys,Values
+Sets And Maps Fundamentals
+Maps Iteration
+Working With Strings
+Strings Methods Practices
