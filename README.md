@@ -31,3 +31,11 @@ Sets And Maps Fundamentals
 Maps Iteration
 Working With Strings
 Strings Methods Practices
+-------------------------------------
+Maps Iteration
+All About Functions
+Immediately Invoked Function Expressions (IIFE)
+The call and apply Methods
+Functions Returning
+Closures
+Arrays Methods
